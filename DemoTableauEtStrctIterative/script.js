@@ -2,6 +2,11 @@
 
 // INitialiser un tableau avec des valeurs
 const tab = ["Riri", "Fifi", "Loulou", 4, false]
+const matrice = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
 
 // Récupération / Modification
 const tabIndice1 = tab[1]
